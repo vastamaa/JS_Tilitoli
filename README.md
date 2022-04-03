@@ -1,3 +1,7 @@
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+
 # <div id="top">JS_Tiltoli</div>
 
 This project was a school assignment. The goal was to create a `15 puzzle` game using JavaScript, HTML5, CSS3.
